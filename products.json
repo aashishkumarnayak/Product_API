@@ -1,0 +1,105 @@
+
+
+[
+
+    {
+    "name":"iphone",
+    "price":"123000",
+    "featured":"true",
+    "company":"apple"
+    },
+    
+    {
+    "name":"watch",
+    "price":"12300",
+    "featured":"true",
+    "company":"apple"
+    },
+    
+    {
+    "name":"earphone",
+    "price":"1230",
+    "featured":"true",
+    "company":"samsung"
+    },
+    
+    {
+    "name":"headphone",
+    "price":"2000",
+    "company":"mi"
+    },
+    
+    {
+    "name":"laptop",
+    "price":"235000",
+    "featured":"true",
+    "company":"dell"
+    },
+    
+    {
+    "name":"speaker",
+    "price":"1300",
+    "company":"mi"
+    },
+    
+    {
+    "name":"iphone14",
+    "price":"203000",
+    "company":"apple"
+    },
+    
+    {
+    "name":"watch10",
+    "price":"3000",
+    "company":"mi"
+    },
+    
+    {
+    "name":"nokia",
+    "price":"56000",
+    "company":"samsung"
+    },
+    
+    {
+    "name":"tab",
+    "price":"3000",
+    "featured":"true",
+    "company":"mi"
+    },
+    
+    {
+    "name":"mi_watch",
+    "price":"123000",
+    "featured":"true",
+    "company":"mi"
+    },
+    
+    {
+    "name":"dell_tab",
+    "price":"123000",
+    "featured":"true",
+    "company":"dell"
+    },
+    
+    {
+    "name":"computer",
+    "price":"123000",
+    "featured":"true",
+    "company":"dell"
+    },
+    
+    {
+    "name":"charger",
+    "price":"123000",
+    "featured":"true",
+    "company":"apple"
+    },
+    
+    {
+    "name":"earbuds",
+    "price":"123000",
+    "featured":"true",
+    "company":"apple"
+    }
+    
+    ]
