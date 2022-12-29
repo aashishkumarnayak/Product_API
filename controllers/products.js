@@ -5,6 +5,7 @@ const getAllProducts = async (req, res) => {
     const {company, name, featured, sort, select} = req.query;
     const queryObject = {};
 
+    
     if(company) {
         queryObject.company = company;
 
@@ -17,12 +18,13 @@ const getAllProducts = async (req, res) => {
     }
 
     
-    let apiData = Product.find(queryObject);
+
     if(name) {
         queryObject.name = {$regex: name, $options: "i"};
         
     }
 
+    let apiData = Product.find(queryObject);
     if(sort){
         let sortFix = sort.replace(",", " ");
         apiData = apiData.sort(sortFix); 
